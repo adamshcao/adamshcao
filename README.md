@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello, I'm Adam. 👋
 
+A front-end and software engineer.
+
+[Website](https://www.adamcao.dev)
 <!--
 **Hoplox/Hoplox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
