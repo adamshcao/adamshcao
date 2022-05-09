@@ -1,6 +1,6 @@
 ### Hello, I'm Adam. 👋
 
-A front-end and software engineer.
+A quantitative trader, front-end and software engineer.
 
 [Website](https://www.adamcao.dev)
 <!--
