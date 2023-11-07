@@ -1,6 +1,6 @@
 ### Hello, I'm Adam. 👋
 
-A quantitative trader and finanical software engineer.
+A financial software engineer.
 
 [Website](https://www.adamcao.dev)
 <!--
